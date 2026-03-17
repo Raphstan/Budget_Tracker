@@ -27,7 +27,7 @@ Each session with Claude Code = one task.
 
 ---
 
-### TASK 001 — Initialize Next.js project ☐
+### TASK 001 — Initialize Next.js project ✅
 
 **Depends on:** nothing
 
@@ -1166,7 +1166,7 @@ Run this full user journey in production:
 
 | Task | Phase | Description | Status |
 |---|---|---|---|
-| 001 | 1 | Initialize Next.js project | ☐ |
+| 001 | 1 | Initialize Next.js project | ✅ |
 | 002 | 1 | Supabase DB schema | ☐ |
 | 003 | 1 | Auth setup | ☐ |
 | 004 | 1 | Protected route middleware | ☐ |
