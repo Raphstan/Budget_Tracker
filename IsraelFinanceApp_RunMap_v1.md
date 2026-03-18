@@ -337,7 +337,7 @@ Strings to include at this stage (add more as you build each component):
 
 ---
 
-### TASK 006 — Bank selector screen ☐
+### TASK 006 — Bank selector screen ✅
 
 **Depends on:** TASK 005
 
@@ -363,7 +363,7 @@ Strings to include at this stage (add more as you build each component):
 
 ---
 
-### TASK 007 — Export guide screen ☐
+### TASK 007 — Export guide screen ✅
 
 **Depends on:** TASK 006
 
@@ -424,7 +424,7 @@ export const leumiGuide = {
 
 ---
 
-### TASK 008 — File upload component ☐
+### TASK 008 — File upload component ✅
 
 **Depends on:** TASK 007
 
@@ -1173,9 +1173,9 @@ Run this full user journey in production:
 | 003 | 1 | Auth setup | ✅ |
 | 004 | 1 | Protected route middleware | ✅ |
 | 005 | 2 | i18n setup | ✅ |
-| 006 | 2 | Bank selector screen | ☐ |
-| 007 | 2 | Export guide screen | ☐ |
-| 008 | 2 | File upload component | ☐ |
+| 006 | 2 | Bank selector screen | ✅ |
+| 007 | 2 | Export guide screen | ✅ |
+| 008 | 2 | File upload component | ✅ |
 | 009 | 2 | Leumi Excel parser | ☐ |
 | 010 | 2 | Auto-categorization engine | ☐ |
 | 011 | 2 | Upload API route | ☐ |

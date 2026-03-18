@@ -20,7 +20,19 @@
     "upload_cta": "Drag here or click to browse",
     "analyzing": "Analyzing your data...",
     "downloaded_file": "I downloaded my file",
-    "step_of": "Step {current} of {total}"
+    "step_of": "Step {current} of {total}",
+    "upload_analyze": "Upload and analyze",
+    "transactions_found": "{count} transactions found",
+    "try_again": "Try again",
+    "drop_active": "Drop here...",
+    "banks": {
+      "leumi": "Leumi",
+      "hapoalim": "Hapoalim",
+      "discount": "Discount",
+      "mizrahi": "Mizrahi Tefahot",
+      "yahav": "Yahav",
+      "jerusalem": "Bank of Jerusalem"
+    }
   },
   "dashboard": {
     "income": "Income this month",

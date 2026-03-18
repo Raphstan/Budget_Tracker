@@ -20,7 +20,19 @@
     "upload_cta": "גרור לכאן או לחץ לבחור קובץ",
     "analyzing": "מנתח את הנתונים שלך...",
     "downloaded_file": "הורדתי את הקובץ",
-    "step_of": "שלב {current} מתוך {total}"
+    "step_of": "שלב {current} מתוך {total}",
+    "upload_analyze": "העלה ונתח",
+    "transactions_found": "נמצאו {count} עסקאות",
+    "try_again": "נסה שוב",
+    "drop_active": "שחרר כאן...",
+    "banks": {
+      "leumi": "לאומי",
+      "hapoalim": "הפועלים",
+      "discount": "דיסקונט",
+      "mizrahi": "מזרחי טפחות",
+      "yahav": "יהב",
+      "jerusalem": "בנק ירושלים"
+    }
   },
   "dashboard": {
     "income": "הכנסות החודש",
