@@ -1,0 +1,90 @@
+{
+  "auth": {
+    "login": "Login",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "continue_google": "Continue with Google",
+    "agree_terms": "I agree to the Terms of Service and Privacy Policy",
+    "have_account": "Already have an account?",
+    "no_account": "Don't have an account?",
+    "signing_in": "Signing in...",
+    "signing_up": "Signing up...",
+    "or": "or"
+  },
+  "onboarding": {
+    "select_bank": "Which bank are you with?",
+    "coming_soon": "Coming soon",
+    "export_title": "Export your transactions",
+    "upload_title": "Upload your file",
+    "upload_cta": "Drag here or click to browse",
+    "analyzing": "Analyzing your data...",
+    "downloaded_file": "I downloaded my file",
+    "step_of": "Step {current} of {total}"
+  },
+  "dashboard": {
+    "income": "Income this month",
+    "expenses": "Expenses this month",
+    "surplus": "Surplus",
+    "no_data": "No data for this month",
+    "see_all": "See all",
+    "recent_transactions": "Recent transactions",
+    "todays_insight": "Today's insight",
+    "refresh": "Refresh",
+    "upgrade_for_insights": "Upgrade for daily insights"
+  },
+  "transactions": {
+    "date": "Date",
+    "merchant": "Merchant",
+    "category": "Category",
+    "amount": "Amount",
+    "no_transactions": "No transactions"
+  },
+  "categories": {
+    "salary": "Salary",
+    "other_income": "Other Income",
+    "food": "Food & Groceries",
+    "restaurants": "Restaurants & Cafes",
+    "housing": "Housing & Rent",
+    "transport": "Transport & Fuel",
+    "bills": "Bills & Utilities",
+    "health": "Health",
+    "education": "Education",
+    "entertainment": "Entertainment",
+    "shopping": "Shopping",
+    "other": "Other"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "transactions": "Transactions",
+    "insights": "Insights",
+    "settings": "Settings",
+    "sign_out": "Sign out"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "full_name": "Full name",
+    "email": "Email",
+    "language": "Language",
+    "subscription": "Subscription",
+    "upload_history": "Upload history",
+    "manage_subscription": "Manage subscription",
+    "upgrade": "Upgrade to Premium",
+    "delete_account": "Delete account",
+    "save": "Save"
+  },
+  "payments": {
+    "unlock_title": "Unlock full access",
+    "price": "₪25/month",
+    "cancel_anytime": "Cancel anytime",
+    "start_premium": "Start Premium"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "file_type": "Unsupported file type. Please upload an XLS, XLSX or CSV file.",
+    "file_size": "File too large. Maximum size is 10MB.",
+    "no_transactions": "No transactions found in this file.",
+    "unauthorized": "Please log in to continue."
+  }
+}

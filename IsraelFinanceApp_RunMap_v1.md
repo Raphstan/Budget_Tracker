@@ -268,7 +268,9 @@ Dashboard → Authentication → Providers → Google → enable + add credentia
 
 ---
 
-### TASK 004 — Protected route middleware ☐
+### TASK 004 — Protected route middleware ✅
+
+**Note:** Implemented as part of TASK 003 (`src/proxy.ts`). All 3 redirect rules covered.
 
 **Depends on:** TASK 003
 
@@ -292,7 +294,7 @@ Logic:
 
 ---
 
-### TASK 005 — i18n setup (Hebrew + English) ☐
+### TASK 005 — i18n setup (Hebrew + English) ✅
 
 **Depends on:** TASK 004
 
@@ -1169,8 +1171,8 @@ Run this full user journey in production:
 | 001 | 1 | Initialize Next.js project | ✅ |
 | 002 | 1 | Supabase DB schema | ✅ |
 | 003 | 1 | Auth setup | ✅ |
-| 004 | 1 | Protected route middleware | ☐ |
-| 005 | 2 | i18n setup | ☐ |
+| 004 | 1 | Protected route middleware | ✅ |
+| 005 | 2 | i18n setup | ✅ |
 | 006 | 2 | Bank selector screen | ☐ |
 | 007 | 2 | Export guide screen | ☐ |
 | 008 | 2 | File upload component | ☐ |

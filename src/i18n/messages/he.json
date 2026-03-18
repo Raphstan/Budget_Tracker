@@ -1,0 +1,90 @@
+{
+  "auth": {
+    "login": "התחברות",
+    "signup": "הרשמה",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "continue_google": "המשך עם Google",
+    "agree_terms": "אני מסכים לתנאי השימוש ומדיניות הפרטיות",
+    "have_account": "יש לך חשבון?",
+    "no_account": "אין לך חשבון?",
+    "signing_in": "מתחבר...",
+    "signing_up": "נרשם...",
+    "or": "או"
+  },
+  "onboarding": {
+    "select_bank": "באיזה בנק אתה?",
+    "coming_soon": "בקרוב",
+    "export_title": "ייצא את העסקאות שלך",
+    "upload_title": "העלה את הקובץ",
+    "upload_cta": "גרור לכאן או לחץ לבחור קובץ",
+    "analyzing": "מנתח את הנתונים שלך...",
+    "downloaded_file": "הורדתי את הקובץ",
+    "step_of": "שלב {current} מתוך {total}"
+  },
+  "dashboard": {
+    "income": "הכנסות החודש",
+    "expenses": "הוצאות החודש",
+    "surplus": "עודף",
+    "no_data": "אין נתונים לחודש זה",
+    "see_all": "ראה הכל",
+    "recent_transactions": "עסקאות אחרונות",
+    "todays_insight": "התובנה של היום",
+    "refresh": "רענן",
+    "upgrade_for_insights": "שדרג לתובנות יומיות"
+  },
+  "transactions": {
+    "date": "תאריך",
+    "merchant": "עסק",
+    "category": "קטגוריה",
+    "amount": "סכום",
+    "no_transactions": "אין עסקאות"
+  },
+  "categories": {
+    "salary": "משכורת",
+    "other_income": "הכנסה אחרת",
+    "food": "מזון וסופר",
+    "restaurants": "מסעדות",
+    "housing": "דיור",
+    "transport": "תחבורה",
+    "bills": "חשבונות",
+    "health": "בריאות",
+    "education": "חינוך",
+    "entertainment": "בידור",
+    "shopping": "קניות",
+    "other": "אחר"
+  },
+  "nav": {
+    "dashboard": "דשבורד",
+    "transactions": "עסקאות",
+    "insights": "תובנות",
+    "settings": "הגדרות",
+    "sign_out": "התנתקות"
+  },
+  "settings": {
+    "title": "הגדרות",
+    "profile": "פרופיל",
+    "full_name": "שם מלא",
+    "email": "אימייל",
+    "language": "שפה",
+    "subscription": "מנוי",
+    "upload_history": "היסטוריית העלאות",
+    "manage_subscription": "נהל מנוי",
+    "upgrade": "שדרג ל-Premium",
+    "delete_account": "מחק חשבון",
+    "save": "שמור"
+  },
+  "payments": {
+    "unlock_title": "גישה מלאה",
+    "price": "₪25 לחודש",
+    "cancel_anytime": "ניתן לבטל בכל עת",
+    "start_premium": "התחל Premium"
+  },
+  "errors": {
+    "generic": "משהו השתבש. נסה שוב.",
+    "file_type": "סוג קובץ לא נתמך. יש להעלות קובץ XLS, XLSX או CSV.",
+    "file_size": "הקובץ גדול מדי. מקסימום 10MB.",
+    "no_transactions": "לא נמצאו עסקאות בקובץ.",
+    "unauthorized": "יש להתחבר כדי להמשיך."
+  }
+}
