@@ -70,7 +70,7 @@ npx shadcn-ui@latest add button card badge dialog dropdown-menu input label sele
 
 ---
 
-### TASK 002 — Supabase project + database schema ☐
+### TASK 002 — Supabase project + database schema ✅
 
 **Depends on:** TASK 001
 
@@ -1167,7 +1167,7 @@ Run this full user journey in production:
 | Task | Phase | Description | Status |
 |---|---|---|---|
 | 001 | 1 | Initialize Next.js project | ✅ |
-| 002 | 1 | Supabase DB schema | ☐ |
+| 002 | 1 | Supabase DB schema | ✅ |
 | 003 | 1 | Auth setup | ☐ |
 | 004 | 1 | Protected route middleware | ☐ |
 | 005 | 2 | i18n setup | ☐ |
