@@ -217,7 +217,7 @@ insert into public.categories (name_he, name_en, icon, type, is_system, sort_ord
 
 ---
 
-### TASK 003 — Supabase Auth setup ☐
+### TASK 003 — Supabase Auth setup ✅
 
 **Depends on:** TASK 002
 
@@ -1168,7 +1168,7 @@ Run this full user journey in production:
 |---|---|---|---|
 | 001 | 1 | Initialize Next.js project | ✅ |
 | 002 | 1 | Supabase DB schema | ✅ |
-| 003 | 1 | Auth setup | ☐ |
+| 003 | 1 | Auth setup | ✅ |
 | 004 | 1 | Protected route middleware | ☐ |
 | 005 | 2 | i18n setup | ☐ |
 | 006 | 2 | Bank selector screen | ☐ |
